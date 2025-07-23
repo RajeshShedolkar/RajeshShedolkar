@@ -4,11 +4,11 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/RajeshShedolkar" target="blank"><img src="https://img.shields.io/twitter/follow/RajeshShedolkar?logo=twitter&style=for-the-badge" alt="RajeshShedolkar" /></a> </p>
-
+<!--<p align="left"> <a href="https://twitter.com/RajeshShedolkar" target="blank"><img src="https://img.shields.io/twitter/follow/RajeshShedolkar?logo=twitter&style=for-the-badge" alt="RajeshShedolkar" /></a> </p>
+-->
 - 🔭 I’m currently working on **Backend Devlopment**
 
-- 🌱 I’m currently learning **Blockchain, CI/CD, Docker.**
+- 🌱 I’m currently learning **Blockchain, Solana, Web3,  CI/CD, Docker.**
 
 - 💬 Ask me about **DSA, Backend, Git.**
 
