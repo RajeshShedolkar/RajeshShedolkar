@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **rajeshshedolkar12@gmail.com**
 
-- ⚡ Fun fact **I'm 90% coffee, 10% logic. ☕➕🧠**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank">
