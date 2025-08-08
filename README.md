@@ -8,7 +8,7 @@
 -->
 - 🔭 I’m currently working on **Backend Devlopment**
 
-- 🌱 I’m currently learning **Blockchain, Solana, Web3,  CI/CD, Docker.**
+- 🌱 I’m currently learning **Blockchain, Solana, Web3**
 
 - 💬 Ask me about **DSA, Backend, Git.**
 
