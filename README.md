@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajesh Shedolkar  
 
-🚀 Backend Engineer | Golang & Python | Distributed Systems
+ Golang, Python & Rust | System Design | Distributed Systems
 
 I design and build **high-scale backend systems** focused on reliability, performance, and correctness.  
 Currently working on **transaction management, ledger systems, Kafka event flows, and saga-based architectures**.
@@ -13,7 +13,7 @@ Currently working on **transaction management, ledger systems, Kafka event flows
 
 ---
 
-## 🧠 What I Work On
+## What I Work On
 
 - Kafka event-driven microservices  
 - Saga & compensation workflows  
