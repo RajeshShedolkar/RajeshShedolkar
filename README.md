@@ -26,7 +26,7 @@ Currently working on **transaction management, ledger systems, Kafka event flows
 
 - Golang system design mastery  
 - Kafka deep internals  
-- Payment & banking domain architecture  
+- Transaction & banking domain architecture  
 - Low latency backend engineering  
 
 ---
