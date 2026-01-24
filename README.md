@@ -2,8 +2,7 @@
 
  Golang, Python & Rust | System Design | Distributed Systems
 
-I design and build **high-scale backend systems** focused on reliability, performance, and correctness.  
-Currently working on **transaction management, ledger systems, Kafka event flows, and saga-based architectures**.
+  Currently working on **high-scale backend systems focused on reliability, performance, and correctness. transaction management, ledger systems, Kafka event flows, and saga-based architectures**.
 
 ---
 
@@ -26,7 +25,6 @@ Currently working on **transaction management, ledger systems, Kafka event flows
 
 - Golang system design mastery  
 - Kafka deep internals  
-- Transaction & banking domain architecture  
 - Low latency backend engineering  
 
 ---
