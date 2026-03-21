@@ -31,7 +31,6 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/rajeshshedolkar  
 - LinkedIn: www.linkedin.com/in/rajesh-shedolkar-bb04407a
 ---
 
